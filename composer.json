@@ -1,0 +1,8 @@
+{
+    "name": "julius/comp",
+    "type": "project",
+    "require": {
+        "bbluo/hello": "^1.0"
+
+    }
+}
